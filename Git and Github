@@ -1,0 +1,35 @@
+When we get started writing a new program, the last thing we want to happen is to lose any of our hard work.
+To prevent that terrible possibility from happening, we will save versions of our code on our computer and also save a version of our code on a location on the web
+The reason why we store our code on the web is to prevent loss of versions that you may have made on your computer.
+In case your hard drive gets corrupted or worse, you lose your laptop, all you need to do is retrieve your work from the web
+
+This is where Version control comes in.
+Version control is a management system that manages the changes that you make to the project till the end.
+Every time you make a change to your project snapshots are taken by the version control system.
+Examples of version control systems.
+  * Git
+  * GNU arch
+  * Fossil
+  * DCVS and many more proprietary and open souce version control systems
+
+
+
+> Getting started with git and github <
+
+To install Git visit : https://git-scm.com/downloads
+To sign up for a free github account visit : https://github.com/
+
+1.Create an account with Github and Git install on your machine.
+2.hosted  files on Github are stored a repository.
+> But what is a repo ? A repository(repo) is a directory on Github
+
+  * A repository name does not affect the contents
+  * A repository can store files written in any programming language
+  * A repository can be used for hosting websites or applications
+
+3.To get a copy of a repo on your local drive you clone the repository, this can be done using git or directly downloading a compressed form of the repo.
+> What is git?
+ * Git is a distributed version-control system for tracking changes in source code during software development
+ * Git is a command line interface that can be used for connecting to github
+ * Git can be used to upload(push) or download(clone) a file or a repo
+
