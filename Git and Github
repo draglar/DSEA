@@ -32,4 +32,21 @@ To sign up for a free github account visit : https://github.com/
  * Git is a distributed version-control system for tracking changes in source code during software development
  * Git is a command line interface that can be used for connecting to github
  * Git can be used to upload(push) or download(clone) a file or a repo
+> Setting up git
+>>Installing git
+For Windows users:
+ ~Use the installer at https://gitforwindows.org/
+For linux users:
+ ~Arch based distros:
+    sudo pacman -Syu git
+ ~debian based distos:
+    sudo apt install git
+ ~Fedora:
+    sudo dnf install git
+>>Setting up git
+ git config --global user.name "Your Name"
+ git config --global user.email"yourname@example.com"
+ 
+To get more detailed info on git and check what git can do type ' git help git ' on the terminal
+
 
